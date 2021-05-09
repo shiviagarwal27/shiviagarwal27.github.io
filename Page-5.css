@@ -676,14 +676,14 @@
 
 @media (max-width: 1199px) {
   .u-section-10 .u-sheet-1 {
-    min-height: 856px;
+    min-height: 1147px;
   }
 
   .u-section-10 .u-slider-1 {
-    width: 940px;
-    min-height: 587px;
+    width: 923px;
+    min-height: 1027px;
     height: auto;
-    margin-right: -17px;
+    margin-right: 0;
     margin-left: auto;
   }
 

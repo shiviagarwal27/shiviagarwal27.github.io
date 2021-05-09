@@ -32615,35 +32615,14 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-sheet-1 {
   min-height: 120px;
 }
-
-.u-footer .u-image-1 {
-  width: 80px;
-  height: 40px;
-  margin: 40px auto 0 0;
-}
-
-.u-footer .u-logo-image-1 {
-  max-width: 80px;
-  max-height: 80px;
-}
-
-.u-footer .u-menu-1 {
-  margin: -38px 0 42px auto;
-}
-
-.u-footer .u-nav-2 {
-  font-size: 1.25rem;
-}
 @media (max-width: 1199px) {
-  .u-footer .u-image-1 {
-    width: auto;
-    height: auto;
+  .u-footer .u-sheet-1 {
+    min-height: 18px;
   }
 }
 @media (max-width: 991px) {
-  .u-footer .u-image-1 {
-    width: 80px;
-    height: 40px;
+  .u-footer .u-sheet-1 {
+    min-height: 18px;
   }
 }
 
